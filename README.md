@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AICE - AI Innovation Community for Excellence
 
-## Getting Started
+A modern, high-performance landing page built for the **AI Innovation Community for Excellence (AICE)** at College of Engineering Chengannur (CEC). Features an interactive scroll-driven canvas background, dynamic event showcases, and a responsive neon aesthetic layout.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌐 Live Demo & Repository
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Live Demo Link:** [https://aice-landing.vercel.app](https://aice-landing.vercel.app) *(Replace with your actual Vercel URL)*
+- **GitHub Repository:** [https://github.com/YOUR_USERNAME/aice-landing](https://github.com/YOUR_USERNAME/aice-landing) *(Replace with your GitHub URL)*
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Technologies Used
 
-## Learn More
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Language:** TypeScript
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Icons:** [Lucide React](https://lucide.dev/)
+- **Deployment:** [Vercel](https://vercel.com/)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Key Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Scroll-Driven Canvas Background:** 60fps frame scrubbing synced to vertical scrolling for a fluid 3D experience.
+- **Aesthetic Neon Glow:** Seamless ambient transition into deep purple aesthetic layout as you scroll past the hero view.
+- **Events & Activities Showcase:** Filterable tab showcase highlighting workshops, hackathons, and technical sessions organized by AICE.
+- **Responsive Design:** Optimized for smooth performance across mobile, tablet, and desktop screens.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💻 Local Development Setup
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Follow these steps to run the project locally on your machine:
+
+### Prerequisites
+
+Ensure you have [Node.js](https://nodejs.org/) (v18 or higher) installed.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/aice-landing.git](https://github.com/YOUR_USERNAME/aice-landing.git)
+   cd aice-landing
